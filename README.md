@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **banerjee.priyanshu2003@gmail.com**
 
-- ⚡ Fun fact **I am a guy who is always open to learning new programming language**
+- ⚡ Fun fact **I am a guy who is always open to learn any new programming language**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
