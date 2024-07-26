@@ -5,11 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyanshu180103&label=Profile%20views&color=0e75b6&style=flat" alt="priyanshu180103" /> </p>
 
-- 🌱 I’m currently learning **Python,Java,Html,CSS,JavaScript**
+- 🌱 I’m currently learning **Python,Java,JavaScript**
 
-- 💬 Ask me about **Python,HTML,CSS,**
+- 💬 Ask me about **Front-End Web Dev & Machine Learning**
 
-- 📫 How to reach me **banerjee.priyanshu2003@gmail.com**
+- 📫 How to reach me **priyanshu.ban2003@gmail.com**
 
 - ⚡ Fun fact **I am a guy who is always open to learn any new programming language**
 
