@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Priyanshu Banerjee</h1>
-<h3 align="center">A passionate Web Developer & Java Programmer</h3>
+<h3 align="center">A passionate Front End Web Developer & ML Enthuiast</h3>
 <img align="right" alt="Coding" width="900" src="https://miro.medium.com/v2/resize:fit:2000/1*-ntL3Dsvc-dJ5cLGRtSuEw.gif">
 
 
