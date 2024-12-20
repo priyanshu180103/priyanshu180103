@@ -19,7 +19,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/priyanshu-banerjee-99b365260/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/priyanshu-banerjee-99b365260" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/priyanshu_ban201?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/priyanshu_ban201?hr_r=1" height="30" width="40" /></a>
-<a href="https://x.com/priyanshutwt18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://x.com/priyanshutwt18" height="30" width="40" /></a>
+<a href="https://x.com/priyanshutwt18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/x.svg" alt="https://x.com/priyanshutwt18" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
