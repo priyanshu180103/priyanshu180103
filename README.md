@@ -6,13 +6,13 @@
 
 <div align="center">
     <span>• 🌱 I'm currently learning <strong>Natural Language Processing & Java</strong></span><br>
-    
+    <div>&nbsp;</div>
     <span>• 💬 Ask me about <strong>Machine Learning, Deep Learning & Front-End Web Dev</strong></span><br>
-    
+    <div>&nbsp;</div>
     <span>• 👨‍💻 All of my projects are available at <strong>https://priyanshu180103.github.io/Portfolio/</strong></span><br>
-    
+    <div>&nbsp;</div>
     <span>• 📫 How to reach me <strong>priyanshu.ban2003@gmail.com</strong></span><br>
-    
+    <div>&nbsp;</div>
     <span>• ⚡ Fun fact <strong>I am always open to learning and building new innovative projects</strong></span>
 </div>
 
