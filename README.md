@@ -1,19 +1,19 @@
 <h1 align="center">Hi 👋, I'm Priyanshu Banerjee</h1>
-<h3 align="center">A passionate Front End Web Developer & ML Enthuiast</h3>
+<h3 align="center">Passionate about ML and Front-End Development—ML is my Focus, Web is my Craft.</h3>
 <img align="right" alt="Coding" width="900" src="https://miro.medium.com/v2/resize:fit:2000/1*-ntL3Dsvc-dJ5cLGRtSuEw.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyanshu180103&label=Profile%20views&color=0e75b6&style=flat" alt="priyanshu180103" /> </p>
 
-- 🌱 I’m currently learning **Python,Java**
+- 🌱 I’m currently learning **Java, Python**
 
-- 💬 Ask me about **Front-End Web Dev & Machine Learning**
+- 💬 Ask me about **Machine Learning, Deep Learning & Front-End Web Dev**
 
 -  👨‍💻 All of my projects are available at **https://priyanshu180103.github.io/Portfolio/** 
 
 - 📫 How to reach me **priyanshu.ban2003@gmail.com**
 
-- ⚡ Fun fact **I am a guy who is always open to learn any new programming language**
+- ⚡ Fun fact **I am always open to learning and building new innovative projects**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
