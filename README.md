@@ -4,7 +4,7 @@
 
 <div>&nbsp;</div>
 
-<div align="center">
+<div align="center" width="25%">
     <p align ="center">🌱 I'm currently learning <strong>Natural Language Processing & Java</strong></p>
     <p align ="center">💬 Ask me about <strong>Machine Learning, Deep Learning & Front-End Web Dev</strong></p>
     <p align ="center">👨‍💻 All of my projects are available at <strong>https://priyanshu180103.github.io/Portfolio/</strong></p>
