@@ -3,7 +3,7 @@
 <img align="right" alt="Coding" height="450" width="900" src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif">
 <br>
 <br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=priyanshu180103&label=Profile%20views&color=0e75b6&style=flat" alt="priyanshu180103" /> </p>
+
 
 - 🌱 I’m currently learning **Natural Language Processing & Java**
 
@@ -67,6 +67,7 @@
 <br>
 <br>
 <br>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=priyanshu180103&label=Profile%20views&color=0e75b6&style=flat" alt="priyanshu180103" /> </p>
 <br>
 <br>
 <br>
