@@ -72,12 +72,10 @@
 <br>
 <br>
 <br>
+<br>
+<br>
+<br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=priyanshu180103&show_icons=true&locale=en" alt="priyanshu180103"/> 
-<br>
-<br>
-<br>  
-<br>
-<br>
 <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=priyanshu180103&" alt="priyanshu180103" /> </p>  
 <br>
 <br>
