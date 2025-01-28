@@ -4,12 +4,18 @@
 
 <div>&nbsp;</div>
 
-<div>
-    <p align ="center">🌱 I'm currently learning <strong>Natural Language Processing & Java</strong></p>
-    <p align ="center">💬 Ask me about <strong>Machine Learning, Deep Learning & Front-End Web Dev</strong></p>
-    <p align ="center">👨‍💻 All of my projects are available at <strong>https://priyanshu180103.github.io/Portfolio/</strong></p>
-    <p align ="center">📫 How to reach me <strong>priyanshu.ban2003@gmail.com</strong></p>
-    <p align ="center">⚡ Fun Fact - <strong>I am always open to learning and building new innovative projects</strong></p>
+<div align="center">
+  <table width="80%" border="2" style="border-collapse: collapse; border-radius: 10px;">
+    <tr>
+      <td>
+        <p>🌱 I'm currently learning <strong>Natural Language Processing & Java</strong></p>
+        <p>💬 Ask me about <strong>Machine Learning, Deep Learning & Front-End Web Dev</strong></p>
+        <p>👨‍💻 All of my projects are available at <strong>https://priyanshu180103.github.io/Portfolio/</strong></p>
+        <p>📫 How to reach me <strong>priyanshu.ban2003@gmail.com</strong></p>
+        <p>⚡ Fun Fact - <strong>I am always open to learning and building new innovative projects</strong></p>
+      </td>
+    </tr>
+  </table>
 </div>
 
 <h3 align="center">Connect with me:</h3>
