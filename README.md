@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyanshu180103&label=Profile%20views&color=0e75b6&style=flat" alt="priyanshu180103" /> </p>
 
-- 🌱 I’m currently learning **Java, Python**
+- 🌱 I’m currently learning **Natural Language Processing & Java**
 
 - 💬 Ask me about **Machine Learning, Deep Learning & Front-End Web Dev**
 
