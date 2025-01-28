@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Priyanshu Banerjee</h1>
 <h3 align="center">Passionate about ML and Front-End Development—ML is my Focus, Web is my Craft.</h3>
 <img align="right" alt="Coding" height="450" width="900" src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif">
-<br>
-<br>
-<br>
-<br>
-<br>
+
 
 - 🌱 I’m currently learning **Natural Language Processing & Java**
 
@@ -27,7 +23,7 @@
 <div align="center">
 <table>
 <tr>
-  <td align="center" width="33%">
+  <td align="center" width="25%">
         <h3>Machine Learning</h3>
         <p align="center">
             <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/></a>
@@ -38,7 +34,7 @@
             <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> 
         </p>
     </td>
-    <td align="center" width="33%">
+    <td align="center" width="25%">
         <h3>Front-End Web Dev</h3>
         <p align="center">
             <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/></a>
@@ -46,7 +42,7 @@
             <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/></a>
         </p>
     </td>
-    <td align="center" width="33%">
+    <td align="center" width="25%">
         <h3>Programming Languages</h3>
         <p align="center">
             <a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="50" height="50"/></a>
@@ -55,7 +51,7 @@
             <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/></a>
         </p>
     </td>
-    <td align="center" width="33%">
+    <td align="center" width="25%">
         <h3>Others</h3>
         <p align="center">
             <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
