@@ -4,7 +4,7 @@
 
 <div>&nbsp;</div>
 
-<div>
+<div align="center">
 
 - 🌱 I’m currently learning **Natural Language Processing & Java**
 
