@@ -21,6 +21,7 @@
 </p>
 
 <div align="center">
+<h2 align="center">My Skills</h2>
 <table>
 <tr>
   <td align="center" width="25%">
