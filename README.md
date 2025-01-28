@@ -1,8 +1,14 @@
 <h1 align="center">Hi 👋, I'm Priyanshu Banerjee</h1>
 <h3 align="center">Passionate about ML and Front-End Development—ML is my Focus, Web is my Craft.</h3>
-<img align="right" alt="Coding" height="450" width="900" src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif">
+<div> </div><img align="right" alt="Coding" height="450" width="900" src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif"> </div>
 
-<br><br><br>
+<div>&nbsp;</div>
+<div>&nbsp;</div>
+<div>&nbsp;</div>
+<div>&nbsp;</div>
+<div>&nbsp;</div>
+
+<div>
 
 - 🌱 I’m currently learning **Natural Language Processing & Java**
 
@@ -13,7 +19,7 @@
 - 📫 How to reach me **priyanshu.ban2003@gmail.com**
 
 - ⚡ Fun fact **I am always open to learning and building new innovative projects**
-
+</div>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
