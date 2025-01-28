@@ -5,11 +5,11 @@
 <div>&nbsp;</div>
 
 <div align="center">
-    <div>- 🌱 I'm currently learning <strong>Natural Language Processing & Java</strong></div>
-    <div>- 💬 Ask me about <strong>Machine Learning, Deep Learning & Front-End Web Dev</strong></div>
-    <div>- 👨‍💻 All of my projects are available at <strong>https://priyanshu180103.github.io/Portfolio/</strong></div>
-    <div>- 📫 How to reach me <strong>priyanshu.ban2003@gmail.com</strong></div>
-    <div>- ⚡ Fun fact <strong>I am always open to learning and building new innovative projects</strong></div>
+    <p align ="left">🌱 I'm currently learning <strong>Natural Language Processing & Java</strong></p>
+    <p align ="left">💬 Ask me about <strong>Machine Learning, Deep Learning & Front-End Web Dev</strong></p>
+    <p align ="left">👨‍💻 All of my projects are available at <strong>https://priyanshu180103.github.io/Portfolio/</strong></p>
+    <p align ="left">📫 How to reach me <strong>priyanshu.ban2003@gmail.com</strong></p>
+    <p align ="left">⚡Fun fact <strong>I am always open to learning and building new innovative projects</strong></p>
 </div>
 
 <h3 align="center">Connect with me:</h3>
